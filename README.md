@@ -1,2 +1,2 @@
 # IBMSkillsBuild-For-Interns
-This is the Data of All the Certificate Provided By IBM Skills Build
+This document details all certificates issued by IBM SkillsBuild.
